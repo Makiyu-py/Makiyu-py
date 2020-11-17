@@ -9,7 +9,7 @@
 
 - <img src="https://github.com/reachvivek/reachvivek/blob/master/Assets/Developer.gif" width="30px"> Most of my projects are available at [**repl.it**](https://repl.it/@Makiyu)
 
-- <img src="https://github.com/Makiyu-py/Makiyu-py/blob/main/assets/mail-clipart.png" width="28px"> Reach me at **Twitter (up there in the middle)**
+- <img src="https://github.com/Makiyu-py/Makiyu-py/blob/main/assets/mail-clipart.png" width="19px"> Reach me at **Twitter (up there in the middle)**
 
 - ⚡ Fun fact: **I make... too much tweets (15k of them to be exact)**
 
