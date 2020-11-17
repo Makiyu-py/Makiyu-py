@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello World! <img src="https://github.com/reachvivek/reachvivek/blob/master/Assets/Earth.gif" width="24px"> I'm Makiyu</h1>
+<h1 align="center">👋 Hello World<img src="https://github.com/reachvivek/reachvivek/blob/master/Assets/Earth.gif" width="30px">! I'm Makiyu</h1>
 <h3 align="center">A Normal Kid in the Wilderness</h3>
 
 <p align="center"> <a href="https://twitter.com/dank_err" target="blank"><img src="https://img.shields.io/twitter/follow/dank_err?logo=twitter&style=for-the-badge" alt="dank_err" /></a> </p>
