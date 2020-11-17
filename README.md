@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **C#, JavaScript, HTML5**
 
-- 👨‍💻 Most of my projects are available at [https://repl.it/@Makiyu](https://repl.it/@Makiyu)
+- 👨‍💻 Most of my projects are available at [repl.it](https://repl.it/@Makiyu)
 
-- 📫 How to reach me **Twitter (down)**
+- 📫 Reach me at **Twitter (up there)**
 
-- ⚡ Fun fact **I make... to much tweets (15k of `em to be exact)**
+- ⚡ Fun fact: **I make... to much tweets (15k of `em to be exact)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
