@@ -15,8 +15,8 @@
 
 <h3 align="left">Connect with Me!</h3>
 
-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" width="30px" /> [**Twitter**](https://twitter.com/dank_err)
-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" width="30px" /> [**StackOverFlow**](https://stackoverflow.com/users/14614326)
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" width="26px" /> [**Twitter**](https://twitter.com/dank_err)
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" width="26px" /> [**StackOverFlow**](https://stackoverflow.com/users/14614326)
 - <img src="https://github.com/Makiyu-py/Makiyu-py/blob/main/assets/discord_black_logo_icon_147145.png" width="28px" />   [**Discord**](https://tenor.com/view/dance-moves-dancing-singer-groovy-gif-17029825) - Makiyu`#4707`
 
 <h3 align="left">Languages and Tools:</h3>
