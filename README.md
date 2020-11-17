@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Makiyu</h1>
 <h3 align="center">A Normal Kid in the Wilderness</h3>
 
-<p align="left"> <a href="https://twitter.com/dank_err" target="blank"><img src="https://img.shields.io/twitter/follow/dank_err?logo=twitter&style=for-the-badge" alt="dank_err" /></a> </p>
+<p align="center"> <a href="https://twitter.com/dank_err" target="blank"><img src="https://img.shields.io/twitter/follow/dank_err?logo=twitter&style=for-the-badge" alt="dank_err" /></a> </p>
 
 - 🔭 I’m currently working on **A Discord Bot!**
 
@@ -11,7 +11,7 @@
 
 - 📫 Reach me at **Twitter (up there)**
 
-- ⚡ Fun fact: **I make... to much tweets (15k of `em to be exact)**
+- ⚡ Fun fact: **I make... too much tweets (15k of `em to be exact)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
