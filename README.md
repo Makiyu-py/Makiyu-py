@@ -13,11 +13,11 @@
 
 - ⚡ Fun fact: **I make... too much tweets (15k of them to be exact)**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with Me!</h3>
 
-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" width="30px" /> [Twitter](https://twitter.com/dank_err)
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" width="30px" /> [**Twitter**](https://twitter.com/dank_err)
 - <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" width="30px" /> [**StackOverFlow**](https://stackoverflow.com/users/14614326)
-- <img src="https://github.com/Makiyu-py/Makiyu-py/blob/main/assets/discord_black_logo_icon_147145.png" width="30px" /> **Discord** - Makiyu`#4707`
+- <img src="https://github.com/Makiyu-py/Makiyu-py/blob/main/assets/discord_black_logo_icon_147145.png" width="28px" />   [**Discord**](https://tenor.com/view/dance-moves-dancing-singer-groovy-gif-17029825) - Makiyu`#4707`
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cs" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
