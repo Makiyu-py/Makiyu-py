@@ -1,15 +1,13 @@
 <h1 align="center">👋 Hello World<img src="https://github.com/reachvivek/reachvivek/blob/master/Assets/Earth.gif" width="28px">! I'm Makiyu</h1>
 <h3 align="center">A Normal Kid in the Wilderness</h3>
 
-<p align="center"> <a href="https://twitter.com/dank_err" target="blank"><img src="https://img.shields.io/twitter/follow/dank_err?logo=twitter&style=for-the-badge" alt="dank_err" /></a> </p>
-
 - 🔭 I’m currently working on 🤖 **A Discord Bot!** 🤖  (Or sleeping 😴)
 
-- 🌱 I’m currently learning **C#, JavaScript, HTML5**
+- 🌱 I’m currently learning **C#, and HTML5**
 
-- <img src="https://github.com/reachvivek/reachvivek/blob/master/Assets/Developer.gif" width="30px"> Most of my projects are available at [**repl.it**](https://repl.it/@Makiyu)
+- <img src="https://github.com/reachvivek/reachvivek/blob/master/Assets/Developer.gif" width="30px"> Most of my projects are available at [**repl.it**](https://repl.it/@Makiyu) (and here! of course. Why are you here? lol)
 
-- <img src="https://github.com/Makiyu-py/Makiyu-py/blob/main/assets/mail-clipart.png" width="19px"> Reach me at **Twitter (up there in the middle)**
+- <img src="https://github.com/Makiyu-py/Makiyu-py/blob/main/assets/mail-clipart.png" width="19px"> Reach me on **Twitter (right there! Few lines below me)**
 
 - ⚡ Fun fact: **I make... too much tweets (15k of them to be exact)**
 
