@@ -9,7 +9,7 @@
 
 - <img src="https://github.com/Makiyu-py/Makiyu-py/blob/main/assets/mail-clipart.png" width="19px"> Reach me on **Twitter (right there! Few lines below me)**
 
-- ⚡ Fun fact: **I make... too much tweets (15k of them to be exact)**
+- ⚡ Fun fact: **I make... too much tweets (1.5k of them to be exact)**
 
 <h3 align="left">Connect with Me!</h3>
 
