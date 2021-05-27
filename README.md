@@ -1,9 +1,8 @@
-<h1 align="center">👋 Hello World! I'm Makiyu!</h1>
+<h1 align="center">👋 Hello World! I'm Makiyu~</h1>
 <h3 align="center">An Open-source Contributor in the Wilderness</h3>
 
-- 🔭 I’m currently working on 🤖 **A Discord Bot!** 🤖  (Or sleeping 😴)
-
-- 🌱 I’m currently learning **HTML5, and Python!**
+- 🔭 I’m currently working on 💻 **Contributing on Open-source Projects!** 💻 (and **[a website made with TailWind CSS](/KIGM-Dashboard)**)
+- 🌱 I’m currently learning **JavaScript, HTML5/CSS, and Python!**
 
 - <img src="https://github.com/reachvivek/reachvivek/blob/master/Assets/Developer.gif" width="30px"> About most of my projects are available here!
 
