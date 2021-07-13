@@ -1,19 +1,27 @@
-<h1 align="center">👋 Hello World! I'm Makiyu~</h1>
-<h3 align="center">An Open-source Contributor in the Wilderness</h3>
+# 👋 Hello World! I'm Makiyu~ <img src="https://i.imgur.com/GLYftSz.png" width="350" align="right"></h1>
+> An Open-source Contributor in the Wilderness
 
-- 🔭 I’m currently working on 💻 **Contributing on Open-source Projects!** 💻 (and **[a website made with TailWind CSS](https://github.com/Makiyu-py/KIGM-Dashboard)**)
-- 🌱 I’m currently learning **JavaScript, HTML5/CSS, and Python!**
+- 🔭 I’m currently working on 💻 **Contributing on Open-source Projects!** 💻
+- 🌱 I’m currently learning **TypeScript!**
 
-- <img src="https://github.com/reachvivek/reachvivek/blob/master/Assets/Developer.gif" width="30px"> About most of my projects are available here!
+- <img src="https://github.com/reachvivek/reachvivek/blob/master/Assets/Developer.gif" width="30px"> About all of my projects are available here!
 
-- <img src="https://github.com/Makiyu-py/Makiyu-py/blob/main/assets/mail-clipart.png" width="19px"> Reach me on **Twitter (right there! Few lines below me)**
+- ⚡ Fun fact: I'm a helper in [_a programming Discord server_!][TCA]
 
-- ⚡ Fun fact: **I make... too much tweets (1.6k of them to be exact)**
+#### Projects
+- [**reddit-discord-webhook**](https://github.com/Makiyu-py/reddit-discord-webhook): Send Reddit (image) posts as a Discord webhook on a certain interval (via cron-jobs)
+- [**danbot-hosting-py**](https://github.com/Makiyu-py/danbot-hosting): A Python API Wrapper for the DanBot Hosting API
+- [**KIGM Discord Bot**](https://github.com/Makiyu-py/KIGM-Discord-Bot): A fun general-purpose Discord bot made with discord.py! (currently under rewrite)
 
-<h3 align="left">Connect with Me!</h3>
+#### Contributions
+- [**TechStruck**](https://github.com/TechStruck/TechStruck-Bot): A Discord Bot made for developers.
+
+## Connect with Me!
 
 - <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" width="26px" /> [**Twitter**](https://twitter.com/dank_err)
 - <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" width="26px" /> [**StackOverFlow**](https://stackoverflow.com/users/14614326)
-- <img src="https://github.com/Makiyu-py/Makiyu-py/blob/main/assets/discord_black_logo_icon_147145.png" width="28px" />   [**Discord**](https://discord.gg/HjNnvQqQE8) - `Makiyu^#4707`
+- <img src="https://github.com/Makiyu-py/Makiyu-py/blob/main/assets/discord_black_logo_icon_147145.png" width="28px" />   [**Discord**][TCA] - `Makiyu^#4707`
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=makiyu-py&show_icons=true&theme=tokyonight&locale=en" alt="makiyu-py" /></p>
+
+[TCA]: https://discord.gg/HjNnvQqQE8
