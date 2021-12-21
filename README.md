@@ -6,7 +6,7 @@
 
 - <img src="https://github.com/reachvivek/reachvivek/blob/master/Assets/Developer.gif" width="30px"> About all of my projects are available here!
 
-- ⚡ Fun fact: I'm a helper in [_a programming Discord server_!][TCA]
+- ⚡ Fun fact: I'm a helper in [_the Pycord Discord Server_!](https://discord.gg/vAHKuVXZmm)
 
 #### Projects
 - [**reddit-discord-webhook**](https://github.com/Makiyu-py/reddit-discord-webhook): Send Reddit (image) posts as a Discord webhook on a certain interval (via cron-jobs)
