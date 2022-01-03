@@ -20,6 +20,13 @@
 - <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" width="26px" /> [**StackOverFlow**](https://stackoverflow.com/users/14614326)
 - <img src="https://github.com/Makiyu-py/Makiyu-py/blob/main/assets/discord_black_logo_icon_147145.png" width="28px" />   [**Discord**][TCA] - `Makiyu^#4707`
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=makiyu-py&show_icons=true&theme=tokyonight&locale=en" alt="makiyu-py" /></p>
+## Stats / Streak
+
+<p align="center">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=makiyu-py&show_icons=true&theme=tokyonight&locale=en" alt="makiyu-py" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Makiyu-py&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D&background=1A1B27&dates=3DCFBE&currStreakLabel=71A4FC&fire=BF91F3&ring=BF91F3&currStreakNum=71A4FC" alt="Github Streak" />
+</p>
 
 [TCA]: https://discord.gg/HjNnvQqQE8
