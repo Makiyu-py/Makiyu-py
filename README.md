@@ -9,9 +9,7 @@
 - ⚡ Fun fact: I'm a helper in [_the Pycord Discord Server_!](https://discord.gg/vAHKuVXZmm)
 
 #### Projects
-- [**reddit-discord-webhook**](https://github.com/Makiyu-py/reddit-discord-webhook): Send Reddit (image) posts as a Discord webhook on a certain interval (via cron-jobs)
-- [**danbot-hosting-py**](https://github.com/Makiyu-py/danbot-hosting): A Python API Wrapper for the DanBot Hosting API
-- [**KIGM Discord Bot**](https://github.com/Makiyu-py/KIGM-Discord-Bot): A fun general-purpose Discord bot made with discord.py! (currently under rewrite)
+🧍
 
 #### Contributions
 - [**TechStruck**](https://github.com/TechStruck/TechStruck-Bot): A Discord Bot made for developers.
