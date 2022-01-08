@@ -13,6 +13,7 @@
 
 #### Contributions
 - [**TechStruck**](https://github.com/TechStruck/TechStruck-Bot): A Discord Bot made for developers.
+- [**Pycord**](https://github.com/Pycord-Development/pycord): A maintained fork of discord.py.
 
 ## Connect with Me!
 
